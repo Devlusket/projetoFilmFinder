@@ -1,7 +1,7 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> Film Finder </h1>
 
 <p align="center">
-Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+Um app feito para estudos de API, onde você pode procurar filmes pelo gênero.  <br/>
 </p>
 
 <p align="center">
